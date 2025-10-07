@@ -21,7 +21,7 @@ The resulting dataset supports comparative studies of nationalism, populism, and
 - LLM-based text classification (NLP)  
 - Causal inference (Two-Way Fixed Effects, Multiple Regression)  
 - Prompt engineering, few-shot learning, and model evaluation (macro-F1, correlation with expert benchmarks)  
-- Data engineering in **Python** (`pandas`, `scikit-learn`, `transformers`, `statsmodels`)  
+- Data engineering in Python (`pandas`, `scikit-learn`, `transformers`, `statsmodels`)  
 
 ---
 
@@ -29,7 +29,7 @@ The resulting dataset supports comparative studies of nationalism, populism, and
 
 - **Developed** a pipeline for ideology classification combining structured metadata and full-text manifestos.  
 - **Benchmarked** open and proprietary LLMs on multilingual political text classification tasks.  
-- **Constructed** a new **panel dataset** of party ideology scores for time-series causal analysis.  
+- **Constructed** a new panel dataset of party ideology scores for time-series causal analysis.  
 - **Demonstrated** the reliability of fine-tuned GPT-3.5 models in replicating expert-coded ideological positions.  
 - **Applied** modern causal methods (TWFE) to study shifts in nationalist vs. civic discourse across European regions.
 
