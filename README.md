@@ -1,7 +1,7 @@
 # LLM Classifier of Political Texts
 
 
-This project was conducted as part of my MSc Thesis. I trained and evaluated a series of large language models (LLMs) to classify European political parties along ideological dimensions using (a) structured metadata from the Manifesto Project Database (MPDS) and (b) full-text party manifestos over time. The result is a reproducible panel of ideology scores and party classifications suitable for downstream causal analyses.
+In my thesis, I trained and evaluated a series of large language models (LLMs) to classify European political parties along ideological dimensions using (a) structured metadata from the Manifesto Project Database (MPDS) and (b) full-text party manifestos over time. The result is a reproducible panel of ideology scores and party classifications suitable for downstream causal analyses.
 
 ---
 
